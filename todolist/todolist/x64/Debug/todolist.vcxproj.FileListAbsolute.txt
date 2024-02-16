@@ -1,0 +1,3 @@
+C:\Users\dell\source\repos\todolist\todolist\x64\Debug\todolist.vcxproj.AssemblyReference.cache
+C:\Users\dell\source\repos\todolist\todolist\x64\Debug\todolist.ToDoForm.resources
+C:\Users\dell\source\repos\todolist\todolist\x64\Debug\todolist.vcxproj.GenerateResource.cache
